@@ -2,4 +2,11 @@ img {
   float: left;
   max-width: 25%;
   height: auto;
+  border: 15px #aca3ff;
+}
+.pic {
+  margin: 5px;
+  border: 15px #a3ffb4;
+  padding: 5px;
+  background-color: blanchedalmond;
 }
