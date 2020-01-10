@@ -13,6 +13,8 @@ img {
 .container {
   height: 180px;
 }
-.h1 {
+#h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #9932CC;
+  font-size: 16pt;
 }
