@@ -6,17 +6,20 @@ img {
   border: 15px #aca3ff;
 }
 .jumbotron {
-  color: #7163f7;
-  background-color: #a3ffb4;
+  color: #4e0081;
+  font-weight: bold;
 }
 .container {
   height: 180px;
 }
-#h1m {
+#h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #9932CC;
   font-size: 20pt;
 }
 .font {
   font-size: 16pt;
+}
+.language {
+  color: rgb(2, 143, 143);
 }
