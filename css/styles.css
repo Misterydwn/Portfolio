@@ -1,3 +1,5 @@
 img {
   float: left;
+  max-width: 25%;
+  height: auto;
 }
