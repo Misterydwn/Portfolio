@@ -1,14 +1,14 @@
 img {
+  padding: 15px;
   float: left;
   max-height: 100%;
   max-width: 100%;
   border: 15px #aca3ff;
 }
-.pic {
-  margin: 5px;
-  border: 15px #a3ffb4;
-  padding: 5px;
-  background-color: blanchedalmond;
+.jumbotron {
+  color: #7163f7;
+  background-color: #a3ffb4;
+  .p {font-size: 50pt;}
 }
 .container {
   height: 180px;
@@ -16,5 +16,8 @@ img {
 #h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #9932CC;
+  font-size: 20pt;
+}
+.font {
   font-size: 16pt;
 }
