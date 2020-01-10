@@ -8,12 +8,11 @@ img {
 .jumbotron {
   color: #7163f7;
   background-color: #a3ffb4;
-  .p {font-size: 50pt;}
 }
 .container {
   height: 180px;
 }
-#h1 {
+#h1m {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #9932CC;
   font-size: 20pt;
