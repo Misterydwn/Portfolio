@@ -11,6 +11,7 @@ img {
 }
 .container {
   height: 180px;
+  background-color: #daf5fa;
 }
 #h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -19,7 +20,18 @@ img {
 }
 .font {
   font-size: 16pt;
+  color:  rgb(1, 92, 92);
 }
 .language {
-  color: rgb(2, 143, 143);
+  color: rgb(1, 92, 92);
+  font-weight: 800;
+}
+.box {
+  margin: 10px;
+  border: 5px #389449;
+  padding: 5px;
+  background-color:#effaf0;
+}
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }

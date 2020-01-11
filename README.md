@@ -11,7 +11,7 @@ _Website designed for potential employers to easily access projects by Misti Fel
 ## Setup Instructions
 
 1. Load Web browser
-2. Open 
+2. Open https://www.misterydwn.github.io/portfolio
  
 ## Technologies Used
 
