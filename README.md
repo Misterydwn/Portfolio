@@ -12,4 +12,70 @@ _Website designed for potential employers to easily access projects by Misti Fel
 
 1. Load Web browser
 2. Open 
+ 
+## Technologies Used
+
+* HTML
+* Markdown
+* Bootstrap v. 3.3.7
+
+### Copyright
+
+**Copyright (c) Misti Felts**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
